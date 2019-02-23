@@ -1,0 +1,6 @@
+﻿  VM.c
+C:\Users\johnk\source\repos\GC\GC\VM.c(53): warning #55: too many arguments in invocation of macro "assert"
+    		d_assert(this->alloc_tail == NULL, "Mem corrupted");
+    		^
+  
+  main.c

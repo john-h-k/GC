@@ -1,0 +1,4 @@
+﻿  GC.c
+c:\users\johnk\source\repos\exceptions\exceptions\gc.c(24): error C2099: initializer is not a constant
+  VM.c
+  Generating Code...
